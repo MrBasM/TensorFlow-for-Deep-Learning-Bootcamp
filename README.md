@@ -18,3 +18,34 @@ Each notebook is designed to be self-contained, runnable on [Google Colab](https
 
 ## 📁 Folder Structure
 
+```
+.
+├── 00_tensorflow_fundamentals.ipynb
+├── ...
+└── README.md
+```
+
+> 🔁 Notebooks are named using a prefix (`00_`, `01_`, etc.) to keep them in logical order according to the course progression.
+
+## 🛠️ Requirements
+
+All notebooks are built to run in **Google Colab**, so you don’t need to install anything locally. If you'd like to run them locally, make sure to install:
+
+```bash
+pip install tensorflow matplotlib pandas scikit-learn
+```
+
+## 🚀 About the Bootcamp
+
+This bootcamp is part of the **Zero to Mastery Academy**, led by [Daniel Bourke](https://github.com/mrdbourke), and aims to provide a practical and modern understanding of deep learning using TensorFlow and Keras.
+
+## 📌 Notes
+
+- This repo is for **educational purposes** only.
+- All notebooks are based on course materials, extended with my own notes and experiments.
+- Feedback, ideas, or pull requests are welcome!
+
+---
+
+👨‍💻 *Made with ❤️ by [Mr. Bas](https://github.com/MrBasM)*  
+📅 *Training start date: March 2025*
