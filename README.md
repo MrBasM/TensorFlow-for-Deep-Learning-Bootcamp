@@ -21,6 +21,7 @@ Each notebook is designed to be self-contained, runnable on [Google Colab](https
 ```
 .
 ├── 00_tensorflow_fundamentals.ipynb
+├── 01_neural_network_regression_with_tensorflow_video.ipynb
 ├── ...
 └── README.md
 ```
